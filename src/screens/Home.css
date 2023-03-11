@@ -1,0 +1,9 @@
+@media only screen and (min-width: 768px) {
+    .home-row {
+        height: 100vh !important;
+    }
+}
+
+.home-row {
+    line-height: 1.85 !important;
+}
